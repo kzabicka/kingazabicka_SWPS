@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "kingazabicka_SWPS/1.0.0": {
+        "runtime": {
+          "kingazabicka_SWPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kingazabicka_SWPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
