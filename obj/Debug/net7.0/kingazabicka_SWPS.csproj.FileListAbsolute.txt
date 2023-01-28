@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\bin\Debug\net7.0\kingazabicka_SWPS.exe
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\bin\Debug\net7.0\kingazabicka_SWPS.deps.json
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\bin\Debug\net7.0\kingazabicka_SWPS.runtimeconfig.json
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\bin\Debug\net7.0\kingazabicka_SWPS.dll
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\bin\Debug\net7.0\kingazabicka_SWPS.pdb
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\kingazabicka_SWPS.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\kingazabicka_SWPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\kingazabicka_SWPS.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\kingazabicka_SWPS.AssemblyInfo.cs
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\kingazabicka_SWPS.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\kingazabicka_SWPS.dll
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\refint\kingazabicka_SWPS.dll
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\kingazabicka_SWPS.pdb
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\kingazabicka_SWPS.genruntimeconfig.cache
+C:\Users\Student\Desktop\kingazabicka_SWPS\kingazabicka_SWPS\obj\Debug\net7.0\ref\kingazabicka_SWPS.dll
